@@ -5,6 +5,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Буцефаландры для души',
+  base: '/anubias-narod-vuepress/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
