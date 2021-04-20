@@ -86,8 +86,14 @@ module.exports = {
           sidebarDepth: 0,
           collapsable: false,
           children: [
-            'p01',
-            'p02',
+            '/pub/p01/',
+            '/pub/p02/',
+            '/pub/p03/',
+            '/pub/p04/',
+            '/pub/p05/',
+            '/pub/p06/',
+            '/pub/p07/',
+            '/pub/p08/',
           ]
         }
       ],

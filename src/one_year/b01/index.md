@@ -1,4 +1,5 @@
 ## Bucephalandra sp. "Stripes" Tapah
+
 ### 20.07.11
 ![](./01.jpg)
 
