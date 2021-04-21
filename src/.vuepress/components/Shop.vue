@@ -1,7 +1,7 @@
 <template>
   <div class="shop-container custom">
     <div class="shop-item" v-for="(item, idx) of items" :key="item.image" @click="showModal(idx)">
-      <img :src="'/shop/' + item.image + '_m.jpg'" class="small-img">
+      <img :src="$withBase('/shop/' + item.image + '_m.jpg')" class="small-img">
       <div class="shop-title">
         <div class="code">
           {{item.code}}
@@ -12,7 +12,7 @@
     </div>
     <div class="modal-bg" :style="modalStyle" @click.self="hideModal">
       <div class="modal" v-if="currentItem.image">
-        <img :src="'/shop/' + currentItem.image + '.jpg'">
+        <img :src="$withBase('/shop/' + currentItem.image + '.jpg')">
         <div class="shop-title">
           <div class="code">
             {{currentItem.code}}
@@ -20,7 +20,7 @@
           <div class="name">
             {{currentItem.name}}</div>
         </div>
-        <img src="/close.svg" class="close-button" alt="" @click.self="hideModal">
+        <img :src="$withBase('/close.svg')" class="close-button" alt="" @click.self="hideModal">
         <div class="back button"></div>
         <div class="forward button"></div>
       </div>
