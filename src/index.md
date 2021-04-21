@@ -1,15 +1,24 @@
 ---
-home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: 
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+pageClass: custom-page
 ---
+
+Растения высылаются с **мая** по **сентябрь**, в течение 5 дней после оплаты.
+
+Заказы принимаю по email: [**anubias2000@mail.ru**](mailto:anubias2000@mail.ru)
+
+Доставка осуществляется почтой России, посылкой 1 класса. Оплатить заказ можно на карту СБ РФ.
+
+Доставка заказов по почте осуществляется только в пределах РФ.
+
+Цена **договорная**, минимальный заказ - **10 шт.**
+
+Все растения разведены семенами.
+
+Технология их выращивания гарантирует высокое качество растений и отсутствие возбудителей болезней.
+Подробнее: Буцефаландры для души
+
+На фотографиях показан минимальный размер реализуемых растений.
+
+Представить реальный размер растения можно по диаметру горшка. В верхней части он составляет 5,5 см.
+
+<Shop/>
