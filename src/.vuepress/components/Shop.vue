@@ -134,6 +134,7 @@ export default {
 
   .modal {
     max-width: 800px;
+    max-height: 100%;
     min-width: 300px;
     position: relative;
   }
