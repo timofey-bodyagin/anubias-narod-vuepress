@@ -28,7 +28,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    title: '',
+    title: 'Буцефаландры для души',
     logo: '/a-logo.png',
     repo: '',
     editLinks: false,
@@ -48,6 +48,10 @@ module.exports = {
       {
         text: 'Фотодневник',
         link: '/one_year/'
+      },
+      {
+        text: 'Разведение',
+        link: '/breeding/'
       },
       {
         text: 'Болезни',

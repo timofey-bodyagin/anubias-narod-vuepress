@@ -11,7 +11,7 @@ body
   font-size 1.1rem
 .site-name
   font-size 1.2rem
-  display none!important
+  //display none!important
 //.navbar .links
 //  position unset!important
 //  display inline-flex!important
@@ -26,3 +26,21 @@ body
 
 img
   border-radius: 5px;
+
+p
+  line-height 1.4
+  margin-top 14px
+  margin-bottom 14px
+
+@media screen and (max-width: 1200px)
+  .logo
+    display none!important
+
+@media screen and (max-width: 1030px) and (min-width: 720px)
+  .site-name
+    display none!important
+
+@media screen and (max-width: 720px)
+  .site-name
+    display block!important
+
