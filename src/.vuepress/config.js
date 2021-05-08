@@ -4,12 +4,12 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Буцефаландры для души',
+  title: 'Буцефаландры - почтой',
   // base: '/anubias-narod-vuepress/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'На нашем сайте вы можете купить буцефаландры. Растения высылаются с мая по сентябрь почтой России.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -19,7 +19,10 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'og:title', content: 'Буцефаландры - почтой' }],
+    ['meta', { name: 'og:description', content: 'На нашем сайте вы можете купить буцефаландры. Растения высылаются с мая по сентябрь почтой России.' }],
+    ['meta', { name: 'og:image', content: 'https://anubias-narod.com/bucefa.jpg' }],
   ],
 
   /**
