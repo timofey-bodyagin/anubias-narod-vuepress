@@ -55,7 +55,6 @@ export default {
         {code: 'Код 30.', name: 'Bucephalandra. sp.', image: '30', price: 250},
         {code: 'Код 35.', name: 'Bucephalandra sp. Blue Gaia', image: '35', price: 250},
         {code: 'Код 38.', name: 'Bucephalandra. sp. Theia 4.', image: '38', price: 200},
-        {code: 'Код 42.', name: 'Bucephalandra Kishii', image: '42', price: 500},
         {code: 'Код 43.', name: 'Bucephalandra sp. Super Blue 2.', image: '43', price: 400},
         {code: 'Код 44.', name: 'Bucephalandra sp. Brunei', image: '44', price: 300},
         {code: 'Код 46.', name: 'Вucephalandra sp. montleyana semuntai 2.', image: '46', price: 250},
