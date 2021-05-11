@@ -51,7 +51,6 @@ export default {
         {code: 'Код 8.', name: 'Bucephalandra sp.  Green Saw', image: '08', price: 200},
         {code: 'Код 11.', name: 'Bucephalandra sp. Long Leaf', image: '11', price: 250},
         {code: 'Код 27.', name: 'Bucephalandra. sp.Velvet Leaf (VL)', image: '27', price: 300},
-        {code: 'Код 28.', name: 'Bucephalandra. sp. Pearl Grey', image: '28', price: 500},
         {code: 'Код 30.', name: 'Bucephalandra. sp.', image: '30', price: 250},
         {code: 'Код 35.', name: 'Bucephalandra sp. Blue Gaia', image: '35', price: 250},
         {code: 'Код 38.', name: 'Bucephalandra. sp. Theia 4.', image: '38', price: 200},
