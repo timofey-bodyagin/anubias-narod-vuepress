@@ -49,32 +49,32 @@ export default {
         {code: 'Код 1.', name: 'Bucephalandra sp. "Stripes" Tapah 2', price: 400, image: '01'},
         {code: 'Код 9.', name: 'Bucephalandra sp. Serian', price: 400, image: '09'},
         {code: 'Код 11.', name: 'Bucephalandra nanga taman', price: 400, image: '11'},
-        {code: 'Код 28.', name: 'Bucephalandra. sp. Pearl Grey', price: 600, image: '28'},
-        {code: 'Код 30.', name: 'Bucephalandra. sp. Sedong', price: 400, image: '30'},
-        {code: 'Код 32.', name: 'Bucephalandra sp.   Green Broad Leaf', price: 500, image: '32'},
+        {code: 'Код 14.', name: 'Bucephalandra sp. Padawan', price: 400, image: '14'},
         {code: 'Код 33.', name: 'Bucephalandra sp.   velvet  entikong', price: 400, image: '33'},
-        {code: 'Код 34.', name: 'Bucephalandra sp.  Dark entikong', price: 400, image: '34'},
         {code: 'Код 43.', name: 'Bucephalandra sp. Super Blue', price: 500, image: '43'},
         {code: 'Код 44.', name: 'Bucephalandra sp. Brunei', price: 500, image: '44'},
         {code: 'Код 45.', name: 'Bucephalandra sp. Metalic Dark Grey', price: 600, image: '45'},
         {code: 'Код 46.', name: 'Вucephalandra sp. montleyana', price: 400, image: '46'},
         {code: 'Код 51.', name: 'Bucephalandra sp. Velvet Leaf 3', price: 500, image: '51'},
-        {code: 'Код 54.', name: 'Bucephalandra sp. Narcissus 2', price: 400, image: '54'},
+        {code: 'Код 53.', name: 'Bucephalandra sp. Bonti River', price: 600, image: '53'},
+        {code: 'Код 54.', name: 'Bucephalandra sp. Narcissus 1 Melawi', price: 400, image: '54'},
         {code: 'Код 57.', name: 'Bucephalandra sp. Emerald Carpet', price: 400, image: '57'},
-        {code: 'Код 59.', name: 'Bucephalandra sp. Elegant Blue', price: 700, image: '59'},
-        {code: 'Код 60.', name: 'Bucephalandra sp. Mukok', price: 400, image: '60'},
         {code: 'Код 61.', name: 'Bucephalandra sp.   Giant', price: 400, image: '61'},
-        {code: 'Код 62.', name: 'Bucephalandra sp.', price: 400, image: '62'},
-        {code: 'Код 63.', name: 'Schismatoglottis sp. Metalic  "Pikachu"', price: 500, image: '63'},
+        {code: 'Код 63.', name: 'Schismatoglottis sp. Metalic  "Pikachu"', price: 400, image: '63'},
         {code: 'Код 70.', name: 'Bucephalandra Kishii', price: 1000, image: '70'},
-        {code: 'Код 71.', name: 'Bucephalandra sp. Dark Achilles', price: 800, image: '71'},
-        {code: 'Код 72.', name: 'Bucephalandra sp. Green Achilles', price: 800, image: '72'},
+        {code: 'Код 71.', name: 'Bucephalandra sp. Achilles-(разные)', price: 700, image: '71'},
         {code: 'Код 73.', name: 'Bucephalandra sp.  Skeleton king  narrow  leaf', price: 600, image: '73'},
-        {code: 'Код 74.', name: 'Bucephalandra sp. Skeleton king oval  leaf', price: 500, image: '74'},
-        {code: 'Код 75.', name: 'Bucephalandra sp. Skeleton king  oval-elliptical leaf', price: 500, image: '75'},
-        {code: 'Код 76.', name: 'Bucephalandra sp. Skeleton king round  leaf', price: 700, image: '76'},
+        {code: 'Код 74.', name: 'Bucephalandra sp. Skeleton king oval  leaf', price: 600, image: '74'},
+        {code: 'Код 75.', name: 'Bucephalandra sp. Skeleton king  oval-elliptical leaf', price: 600, image: '75'},
         {code: 'Код 93.', name: 'Bucephalandra sp. Nanga Taman, Kab.Sanggau', price: 400, image: '93'},
         {code: 'Код 94.', name: 'Bucephalandra sp. Crocodile Land', price: 400, image: '94'},
+        {code: 'Код 95.', name: 'Bucephalandra sp.', price: 500, image: '95'},
+        {code: 'Код 96.', name: 'Bucephalandra sp.', price: 500, image: '96'},
+        {code: 'Код 97.', name: 'Bucephalandra sp.', price: 500, image: '97'},
+        {code: 'Код 98.', name: 'Bucephalandra sp.', price: 500, image: '98'},
+        {code: 'Код 99.', name: 'Bucephalandra sp.', price: 500, image: '99'},
+        {code: 'Код 100.', name: 'Bucephalandra sp.', price: 500, image: '100'},
+        {code: 'Код 101.', name: 'Bucephalandra sp.', price: 500, image: '101'},
       ]
     }
   },
@@ -150,7 +150,7 @@ export default {
   }
 
   .modal {
-    max-width: 800px;
+    /*max-width: 800px;*/
     max-height: 100%;
     min-width: 300px;
     position: relative;
